@@ -19,3 +19,6 @@ You can see the result like below. About 0.63s was taken to send 1,000 messages.
 You can see the messages like below. 
 
 ![consumer](https://github.com/pyeon9/images-for-github-page/blob/main/kafka-hdfs/2021-04/04-21-kafka-example/03-consumer.png?raw=true)
+
+
+For more information, visit [my GitHub Page post](http://127.0.0.1:4000/blog/kafka-hdfs/2021-04-21-kafka-example/) written in Korean.
