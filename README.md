@@ -1,2 +1,2 @@
 # kakfa-example
-A simple example producer &amp; consumer of kafka-python
+A simple example code of producer &amp; consumer for kafka-python
